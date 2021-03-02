@@ -4,7 +4,7 @@ This is a data set containing twitter message id's, which we use to analyze mess
 
 ## Usage
 
-Download and unzip the zipped files. The language can be identified by the substring pt or en in the file name.
+Download and unzip the files. The language can be identified by the substring pt or en in the file name.
 
 We can only share Tweet IDs. You can use these IDs to download the full tweet objects. You can do this using a script like [this](https://github.com/digitalepidemiologylab/crowdbreaks-paper/blob/master/download_tweets.py).
 
