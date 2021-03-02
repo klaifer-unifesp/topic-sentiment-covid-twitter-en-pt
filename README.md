@@ -1,6 +1,6 @@
 # Covid-19 message id's, extracted from twitter
 
-This is a data set containing twitter message id's, which we use to analyze messages related to COVID-19. The messages were collected between April 17,2020 through August 08, 2020, and each set has approximately 3M id's.
+This is a dataset containing twitter message id's, which we use to analyze messages related to COVID-19. The messages were collected between April 17,2020 through August 08, 2020, and each dataset has approximately 3M id's.
 
 ## Usage
 
