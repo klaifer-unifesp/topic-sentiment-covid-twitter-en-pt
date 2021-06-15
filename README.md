@@ -24,3 +24,5 @@ If you use this data, please quote our work:
   keywords = {COVID-19, Twitter, Topic detection, Sentiment analysis, Portuguese language, English language},
 }
 ```
+
+Also available at: https://zenodo.org/record/4956920
